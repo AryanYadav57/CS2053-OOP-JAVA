@@ -31,3 +31,4 @@ public class matrix1 {
             System.out.println("Sum of lower diagonal elements: " + lowerDiagonalSum);
         }
     }
+
